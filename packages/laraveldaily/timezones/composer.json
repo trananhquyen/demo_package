@@ -1,0 +1,15 @@
+{
+    "name": "quyen/sample",
+    "description": "this is first package",
+    "authors": [
+        {
+            "name": "Trần Anh Quyền",
+            "email": "quyenta@vatgia.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {
+        "php": "^7.2",
+        "another-vendor/package": "1.*"
+    }
+}
